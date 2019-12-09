@@ -1,0 +1,12 @@
+{
+    "namelabel" :  " :  الأسم   ",
+    "name" : "مصطفى جمال ",
+    "agelabel" : " :  العمر ",
+    "age" : " 23     ",
+    "genderlabel" : ":  الجنس  ",
+    "gender" : " ذكر ", 
+    "collagelabel" : "   :  الكلية  ",
+    "collage" : " حاسبات ومعلومات عين شمس ",
+    "addresslabel" : ":  العنوان  ",
+    "address" : " القاهرة "
+}

@@ -1,0 +1,12 @@
+{
+    "namelabel" : "Name :",
+    "name" : "Mustafa Gamal ",
+    "agelabel" : "Age : ",
+    "age" : " 23  ",
+    "genderlabel" : "Gender : ",
+    "gender" : " Male ", 
+    "collagelabel" : "Collage  : ",
+    "collage" : "FCIS AinShams Uni   ",
+    "addresslabel" : "Address : ",
+    "address" : " Cairo "
+}
